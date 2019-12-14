@@ -3,12 +3,12 @@ Desarrollo integral de aplicación
 ## Comparación Angular y Reactjs:
 
 
-         | i   |Angular | Reactjs | Favorite
-         |---  |--- | --- | ---
-         |   1 |*not-flex* | `flex` | **nicely**
-         |   2 |           |        |
-         |   3 |           |        |
-         |   4 |           |        |
+   | i   |Angular | Reactjs     | Favorite
+   |--- |--- | --- | ---
+   |**1** |*not-flex* |*flex*   |*React*
+   |**2** |*framework*|*library |*React*
+   |**3** |*full*     |*no-full*|*both*
+   |**4** |           |         |
 
 
 ****Intalación inicial:****
