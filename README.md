@@ -3,7 +3,7 @@ Desarrollo integral de aplicación
 ## Comparación Angular y Reactjs:
 
 
-Markdown | Less | Pretty
+Angular | Reactjs | Favourite
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
