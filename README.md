@@ -19,18 +19,18 @@ Tipado implícito: No se dice en tiempo de programación de que tipo es una vari
 
 
 ****Intalación inicial:****
-  ' sudo apt-get install curl '
-  ' curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
-  sudo apt-get install -y nodejs '
-  ' node --version '
+  ´ sudo apt-get install curl ´
+  ´ curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
+  sudo apt-get install -y nodejs ´
+  ´ node --version ´
 
-  ' curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list '
+  ´ curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list ´
   
-  ' sudo apt-get update && sudo apt-get install yarn '
-  ' yarn --version '
+  ´ sudo apt-get update && sudo apt-get install yarn ´
+  ´ yarn --version ´
 
-  ' sudo snap install --classic code '
+  ´ sudo snap install --classic code ´
   
   ****plugins para code:****
   Babel Javascript para syntax highligthing
