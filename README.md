@@ -10,6 +10,13 @@ Desarrollo integral de aplicación
    |**3** |*full*     |*no-full*|*both*
    |**4** |           |         |
 
+[sistemas de tipos] (http://wiki.uqbar.org/wiki/articles/esquemas-de-tipado.html)
+javascript: Es un lenguaje interpreatdo de tipado dinámico e implícito.
+Intepretado: No pasa por un proceso de compilación antes de ser ejecutado
+Tipado dinámico: En tiempo de ejecución se da cuenta si entiende el mensaje o no
+Tipado implícito: No se dice en tiempo de programación de que tipo es una variable
+
+
 
 ****Intalación inicial:****
   ' sudo apt-get install curl '
