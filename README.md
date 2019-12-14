@@ -1,7 +1,15 @@
 # React-js-Combo
 Desarrollo integral de aplicación 
+## Comparación Angular y Reactjs:
 
-* Intalación inicial:
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
+****Intalación inicial:****
   ' sudo apt-get install curl '
   ' curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
   sudo apt-get install -y nodejs '
@@ -15,18 +23,17 @@ Desarrollo integral de aplicación
 
   ' sudo snap install --classic code '
   
-  plugins para code:
+  ****plugins para code:****
   Babel Javascript para syntax highligthing
   ESLint checkeos de código
   Git Blame y GitLens integraciones con git
   Prettier - Code Formatter code formater
 
-* EN REPO:
-- backend: 
+***EN REPO:***
+_backend:_ 
 Crear archivo server.js:
 
-''' javascript
-
+```javascript
   var http = require("http");
 
 console.log("Loading server");
@@ -37,6 +44,5 @@ http.createServer(function(request, response) {
   response.write("Hola Mundo");
   response.end();
 }).listen(8888);
-
-'''
+```
 
