@@ -3,7 +3,7 @@ Desarrollo integral de aplicación
 ## Comparación Angular y Reactjs:
 
 
-   | i   |Angular | Reactjs     | Favorite
+   | i   |Angular | Reactjs     |MyFavorite
    |--- |--- | --- | ---
    |**1** |*not-flex* |*flex*   |*React*
    |**2** |*framework*|*library |*React*
@@ -43,7 +43,7 @@ console.log("Loading server");
 http.createServer(function(request, response) {
   console.log("Request received");
   response.writeHead(200, {"Content-Type": "text/html"});
-  response.write("Hola Mundo");
+  response.write("Hello g&psyCode");
   response.end();
 }).listen(8888);
 ```
