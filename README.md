@@ -25,7 +25,7 @@ Desarrollo integral de aplicación
 - backend: 
 Crear archivo server.js:
 
-" javascrip "
+''' javascript
 
   var http = require("http");
 
@@ -37,4 +37,6 @@ http.createServer(function(request, response) {
   response.write("Hola Mundo");
   response.end();
 }).listen(8888);
+
+'''
 
